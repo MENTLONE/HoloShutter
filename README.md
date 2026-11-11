@@ -30,7 +30,11 @@ HOLOSHUTTER is a small optical exposure controller built around an **Arduino Nan
 | Jumper wires and common ground | Electrical connections |
 | USB cable | Programming and board power |
 
-See the [bill of materials](hardware/components.md) and [wiring guide](hardware/wiring.md).
+See the [bill of materials](hardware/components.md), [wiring guide](hardware/wiring.md), and [3D-printable parts](3d-models/README.md).
+
+## 3D-printable parts
+
+The mechanical model inventory and measured STL dimensions are documented in **[3d-models/](3d-models/README.md)**. The five original STL meshes are being prepared for direct repository upload.
 
 ## Wiring at a glance
 
@@ -92,6 +96,8 @@ HoloShutter/
 ├── hardware/
 │   ├── components.md
 │   └── wiring.md
+├── 3d-models/
+│   └── README.md
 ├── documentation/
 │   └── setup-guide.md
 └── media/
