@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="HOLOSHUTTER phosphor green banner">
+<rect width="1200" height="480" fill="#07100b"/>
+<rect x="32" y="32" width="1136" height="416" rx="24" fill="#0d1b12" stroke="#34784a" stroke-width="3"/>
+<path d="M65 118H1135M65 370H1135" stroke="#1b3c28" stroke-width="2"/>
+<g fill="#86ffae" font-family="monospace" text-anchor="middle">
+<text x="600" y="195" font-size="84" font-weight="bold" letter-spacing="10">HOLOSHUTTER</text>
+<text x="600" y="250" font-size="24" letter-spacing="6" fill="#65b981">NANO RP2040 CONNECT</text>
+<text x="600" y="314" font-size="21" letter-spacing="4">WIRELESS OPTICAL EXPOSURE CONTROL</text>
+</g>
+<circle cx="105" cy="88" r="10" fill="#55f18c"/><circle cx="137" cy="88" r="10" fill="#235938"/>
+<text x="1080" y="412" fill="#478f60" font-family="monospace" font-size="19">PHOSPHOR EDITION</text>
+</svg>
